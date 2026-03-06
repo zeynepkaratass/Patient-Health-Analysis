@@ -28,4 +28,7 @@ To run this project, you need:
 
 The dataset (`patients_datas.csv`) includes information such as:
 * Patient ID, Age, Diagnosis, Temperature, Heart Rate, and Length of Stay.
-*
+
+
+##Disclaimer
+​This project is for educational and portfolio purposes only. It is not intended for use in clinical environments or for real patient data processing. The developer is not responsible for any decisions made based on the outputs of this software.
