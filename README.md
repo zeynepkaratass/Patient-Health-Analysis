@@ -30,5 +30,6 @@ The dataset (`patients_datas.csv`) includes information such as:
 * Patient ID, Age, Diagnosis, Temperature, Heart Rate, and Length of Stay.
 
 
+
 ## Disclaimer
-​This project is for educational and portfolio purposes only. It is not intended for use in clinical environments or for real patient data processing. The developer is not responsible for any decisions made based on the outputs of this software.
+This software is a prototype for data analysis and visualization. It does not provide clinical diagnosis or medical recommendations. The insights generated are intended to demonstrate data processing capabilities, not to replace professional medical judgment.
